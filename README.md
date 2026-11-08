@@ -6,10 +6,7 @@ Este es el repositorio de nuestro proyecto final para la materia de proyecto de 
 **Equipo:** Nombre 1, Leonardo F. Carballido Solano, Nombre 3, Nombre 4
 
 ## Problema
-Qué pasa hoy.
-
-## Usuario
-A quién le pasa.
+Nuestro proyecto no responde a ningún problema de la vida diaria.
 
 ## Sensa / Responde
 Hace uso de un sensor de movimiento con el cual mide los patrones de movimiento que realiza el usuario y envía una señal que enciende un sistema de respuesta en el cual muetra luces dependiendo de el movimiento realizado con la barita.
