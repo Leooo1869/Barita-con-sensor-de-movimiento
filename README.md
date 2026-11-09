@@ -3,7 +3,7 @@ Este es el repositorio de nuestro proyecto final para la materia de proyecto de 
 
 # Barita mágica con sensor de movimiento
 
-**Equipo:** Nombre 1, Leonardo F. Carballido Solano, Nombre 3 Giselle Delfin Fernandez, Nombre 4 Jose Alejandro Aguirre Palacios
+**Equipo:** Jose Alejandro Aguirre Palacios , Leonardo F. Carballido Solano, Giselle Delfin Fernandez, Valeria Olivares Méndez.
 
 ## Problema
 Nuestro proyecto no responde a ningún problema de la vida diaria.
